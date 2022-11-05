@@ -1,0 +1,15 @@
+1) The file effects of covid-19 show that the items like meat, fish, milk powder, butter, cheese, logs, wood etc. were exported, imported and reimported to different countries
+
+ from 1st January 2015 to 15th December 2021 , 1st January 2019 to 31st December 2019 and 1st January 2019 to 15th December ,2021, with their increasing and 
+
+decreasing value and quantity.
+
+2) To print the export sorted by year:
+
+sort -n -k 2  effects-of-covid-19.csv
+
+3)To print the export sorted by month:
+
+sort -M effects-of-covid-19.csv
+
+4)
